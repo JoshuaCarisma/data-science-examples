@@ -1,4 +1,4 @@
-# Displaying Linear Regression technique
+# Predicting Bike Rentals for Optimization
 
 The problem trying to be solved is predicting how many bikes will be rented at a particular time to properly allocate our resources
 
